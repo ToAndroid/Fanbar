@@ -1,0 +1,1 @@
+![](https://github.com/ToAndroid/Fanbar/blob/master/device-2017-08-14-121013.png)
