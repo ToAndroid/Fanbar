@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SeekCircle">
+        <attr name="seekcircle_max" format="integer" value="15" />
+        <attr name="seekcircle_progress" format="integer" value="0" />
+    </declare-styleable>
+</resources>
